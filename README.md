@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1E3A8A,100:2563EB&height=220&section=header&text=Anand%20Kanishk&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20AI%2FML%20Explorer%20%7C%20Open%20Source&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="./assets/profile-duotone.png" width="150" alt="Anand Kanishk"/>
-
 <a href="https://github.com/anandkanishkZ">
   <img src="https://readme-typing-svg.demolab.com/?weight=600&size=26&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=680&lines=Full+Stack+Software+Engineer;AI+%2F+ML+Explorer+%26+Builder;Cross-Platform%3A+Web+%2B+Android+%2B+Cloud;Open+Source+Contributor" alt="Typing SVG" />
 </a>
