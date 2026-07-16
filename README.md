@@ -3,13 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:8A2BE2&height=220&section=header&text=Anand%20Kanishk&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20AI%2FML%20Explorer%20%7C%20Open%20Source&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/anandkanishkZ">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Full+Stack+Software+Engineer;AI+%2F+ML+Explorer+%26+Builder;Cross-Platform%3A+Web+%2B+Android+%2B+Cloud;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Full+Stack+Software+Engineer;AI+%2F+ML+Explorer+%26+Builder;Cross-Platform%3A+Web+%2B+Android+%2B+Cloud;Open+Source+Contributor" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.E.-Computer%20Science-6D28D9?style=flat-square&logoColor=white" alt="degree"/>
-<img src="https://img.shields.io/badge/Based%20in-Nepal-4C1D95?style=flat-square&logo=googlemaps&logoColor=white" alt="location"/>
+<img src="https://img.shields.io/badge/BSc%20(Hons)-Computer%20Engineering-6D28D9?style=flat-square&logoColor=white" alt="degree"/>
+<img src="https://img.shields.io/badge/Coventry%20University-UK-4C1D95?style=flat-square&logo=googlescholar&logoColor=white" alt="university"/>
 
 <br/><br/>
 
@@ -18,11 +18,17 @@
 <a href="mailto:zwickytechnology@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/anandkanishkZ"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" /></a>
 
+<br/>
+
+<a href="https://facebook.com/anandkanishkZ"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+<a href="https://instagram.com/anandkanishkZ"><img src="https://img.shields.io/badge/Instagram-8B5CF6?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="https://twitter.com/anandkanishkZ"><img src="https://img.shields.io/badge/Twitter%20%2F%20X-6D28D9?style=flat-square&logo=x&logoColor=white" /></a>
+
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=anandkanishkZ&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/anandkanishkZ?style=flat-square&color=6d28d9&label=FOLLOWERS&logo=github" alt="followers"/>
-<img src="https://img.shields.io/badge/dynamic/json?style=flat-square&color=a78bfa&label=REPOSITORIES&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fanandkanishkz" alt="repos"/>
+<img src="https://img.shields.io/badge/dynamic/json?style=flat-square&color=a78bfa&label=REPOSITORIES&query=%24.public_repos&url=https://api.github.com/users/anandkanishkZ" alt="repos"/>
 
 </div>
 
@@ -339,6 +345,12 @@ current_focus:
 <a href="https://linkedin.com/in/anandkanishkZ"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/anandkanishkZ"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://github.com/anandkanishkZ"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+<br/><br/>
+
+<a href="https://facebook.com/anandkanishkZ"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://instagram.com/anandkanishkZ"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://twitter.com/anandkanishkZ"><img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 
 </div>
 
