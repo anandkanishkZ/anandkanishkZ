@@ -40,7 +40,7 @@
 
 I'm a **Full-Stack Software Engineer** based in Nepal, focused on building production-grade web and mobile platforms while actively deepening my expertise in **Artificial Intelligence and Machine Learning**. My engineering philosophy centers on shipping resilient, maintainable systems — not just working demos — with a strong bias toward **product thinking**: understanding the user and business problem before writing a single line of code.
 
-Across 48+ public repositories, my work spans **TypeScript/React front ends, Laravel-powered backends, native Android (Kotlin) and Flutter (Dart) mobile applications, and Java systems programming** — with a consistent thread of applying that engineering discipline to real-world, civic-impact problems (election transparency platforms, blood-donor networks, and public exam-result tooling for Nepal).
+Across 48+ public repositories, my work spans **TypeScript/React front ends, Node.js/NestJS and Laravel-powered backends, cross-platform mobile apps built with Flutter (Dart), and Java systems programming** — with a consistent thread of applying that engineering discipline to real-world, civic-impact problems (election transparency platforms, blood-donor networks, and public exam-result tooling for Nepal).
 
 I approach every project as a product engineer: designing for scale from day one, writing code that a team can maintain, and treating security and performance as first-class requirements rather than afterthoughts.
 
@@ -58,7 +58,7 @@ Open To:
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,js,java,kotlin,dart,php,html,css" />
+<img src="https://skillicons.dev/icons?i=ts,js,java,dart,php,html,css" />
 
 **Frontend**
 
@@ -66,7 +66,7 @@ Open To:
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mysql,postgres,mongodb,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,mysql,postgres,mongodb,firebase" />
 
 **Cloud, DevOps & Tooling**
 
@@ -210,12 +210,12 @@ Freelance / Self-Directed Product Engineering
 
 Designing and shipping full-stack web and mobile products end-to-end — from architecture and data modeling through deployment — for civic-tech initiatives and client-facing platforms.
 
-- Architected and shipped cross-platform applications spanning React/Next.js, Laravel, Kotlin (Android), and Flutter (Dart)
+- Architected and shipped cross-platform applications spanning React/Next.js, Node.js/NestJS, Laravel, and Flutter (Dart)
 - Built and deployed public-facing civic-tech platforms (election data, exam results, blood-donor networks) serving nationwide audiences in Nepal
 - Owned projects end-to-end: requirements, architecture, implementation, deployment, and iteration
 - Actively expanding into applied Machine Learning and generative AI application design
 
-`TypeScript` `React` `Next.js` `Laravel` `Kotlin` `Flutter` `Java` `Node.js` `MySQL` `Firebase` `Vercel`
+`TypeScript` `React` `Next.js` `Node.js` `NestJS` `Laravel` `Flutter` `Java` `MySQL` `Firebase` `Vercel`
 
 ---
 
@@ -227,7 +227,7 @@ Designing and shipping full-stack web and mobile products end-to-end — from ar
 |---|---|
 | 48+ Public Repositories | Consistent, active open-source footprint since 2024 |
 | Civic-Tech Builder | Shipped multiple nationwide-facing platforms for Nepal (elections, blood donation, exam results) |
-| Cross-Platform Engineering | Delivered production work across Web, Android (Kotlin), and Flutter (Dart) |
+| Cross-Platform Engineering | Delivered production work across Web and Flutter (Dart) mobile apps |
 | Open Source Engagement | Active contributor and consumer of community front-end and geo-data projects |
 
 </div>
@@ -297,7 +297,8 @@ current_focus:
     - Reusable TypeScript core infrastructure (lexcore)
   exploring:
     - Generative AI application design & agentic tooling
-    - Native Android (Kotlin) and Flutter cross-platform engineering
+    - Flutter (Dart) cross-platform mobile engineering
+    - NestJS-based backend architecture
   open_to:
     - Full-Stack Engineering roles
     - AI / ML collaboration and research
